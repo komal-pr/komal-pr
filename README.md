@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00AAFF,100:7B00FF&height=200&section=header&text=KOMAL%20PRASAD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Security%20Analyst%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <!-- ── TYPING SVG ── -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=Penetration+Tester+%F0%9F%94%93;Security+Analyst+%F0%9F%9B%A1%EF%B8%8F;Web+%26+Mobile+Security+%F0%9F%93%B1;API+Security+%F0%9F%94%8C;Network+Penetration+Testing+%F0%9F%94%92;AI+%26+LLM+Security+%F0%9F%A7%A0;Bug+Bounty+Hunter+%F0%9F%90%9B" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=Penetration+Tester+%F0%9F%94%93;Security+Analyst+%F0%9F%9B%A1%EF%B8%8F;Web+%26+Mobile+Security+%F0%9F%93%B1;API+Security+%F0%9F%94%8C;Network+Penetration+Testing+%F0%9F%94%92" alt="Typing SVG"/>
 
 <!-- ── PROFILE VIEWS + BADGES ── -->
 <br/>
@@ -24,35 +24,35 @@
 
 ---
 
-<!-- ── TERMINAL WHOAMI ── -->
-```bash
-┌──(komal㉿kali)-[~]
-└─$ whoami --verbose
+<!-- ── OPERATOR PROFILE ── -->
 
-  Name        : Komal Prasad
-  Role        : Security Analyst | Penetration Tester
-  Education   : B.Tech Computer Science Engineering
-  Location    : India  🇮🇳
-  Status      : 🟢 Open for collaborations & engagements
+## 👤 OPERATOR PROFILE
 
-┌──(komal㉿kali)-[~]
-└─$ cat /etc/specialties
+| | |
+|---|---|
+| **👤 Name** | Komal Prasad |
+| **🎯 Role** | Security Analyst &amp; Penetration Tester |
+| **🎓 Education** | B.Tech in Electronics and Communication Engineering |
+| **📍 Location** | India 🇮🇳 |
+| **🟢 Status** | Open for collaborations &amp; engagements |
 
-  ✦  Web Application Penetration Testing
-  ✦  Mobile Application Security (Android/iOS/API)
-  ✦  Network Penetration Testing
-  ✦  API & Microservices Security
-  ✦  AI & LLM Security Research
-  ✦  Vulnerability Assessment & Management
+## 🎯 SPECIALTIES
 
-┌──(komal㉿kali)-[~]
-└─$ cat ~/current_focus
+[![](https://img.shields.io/badge/Web_App_Penetration_Testing-CC0000?style=for-the-badge&labelColor=0D1117&logo=target&logoColor=white)](#)
+[![](https://img.shields.io/badge/Mobile_Security-00AAFF?style=for-the-badge&labelColor=0D1117&logo=android&logoColor=white)](#)
+[![](https://img.shields.io/badge/Network_Penetration_Testing-00FF41?style=for-the-badge&labelColor=0D1117&logo=wireguard&logoColor=white)](#)
+[![](https://img.shields.io/badge/API_%26_Microservices_Security-7B00FF?style=for-the-badge&labelColor=0D1117&logo=fastapi&logoColor=white)](#)
 
-  [✔] Network Security Fundamentals
-  [✔] Advanced Penetration Testing
-  [✔] AI/LLM Security — Prompt Injection, Model Attacks
-  [  ] CRTO — In Progress...
-```
+## 📚 CURRENT FOCUS
+
+[![](https://img.shields.io/badge/Advanced_Penetration_Testing-00FF41?style=for-the-badge&labelColor=0D1117)](#)
+[![](https://img.shields.io/badge/Network_Security-00AAFF?style=for-the-badge&labelColor=0D1117)](#)
+
+## 🏅 CERTIFICATIONS
+
+[![](https://img.shields.io/badge/eJPT-CC0000?style=for-the-badge&labelColor=0D1117&logo=e-learning&logoColor=white)](#)
+[![](https://img.shields.io/badge/APISec-00AAFF?style=for-the-badge&labelColor=0D1117&logo=api&logoColor=white)](#)
+[![](https://img.shields.io/badge/CCEP-00FF41?style=for-the-badge&labelColor=0D1117&logo=checkmarx&logoColor=white)](#)
 
 ---
 
@@ -119,43 +119,36 @@
 
 ---
 
-## 〔 CURRENT SIGNAL 〕
+<details>
+  <summary><strong>📡 CURRENT SIGNAL</strong> <em>— tap to view operator status</em></summary>
+  <br>
 
-```python
-class KomalPrasad:
+  <table>
+    <tr>
+      <td align="right" width="140"><strong>🛠️ Working On</strong></td>
+      <td>Web &amp; Mobile Penetration Testing &nbsp;·&nbsp; API Security Assessments</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>📚 Learning</strong></td>
+      <td>Network and Mobile Penetration Testing</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>🤝 Open To</strong></td>
+      <td>Penetration testing engagements &nbsp;·&nbsp; Security research collaboration</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>⚡ Daily Setup</strong></td>
+      <td>Kali Linux &nbsp;+&nbsp; Metasploit &nbsp;+&nbsp; TryHackMe</td>
+    </tr>
+    <tr>
+      <td align="right"><strong>📬 Reach Me</strong></td>
+      <td><a href="https://linkedin.com/in/komal-prasad-a20998267">LinkedIn</a> &nbsp;·&nbsp; <a href="https://medium.com/@Komalprasad">Medium</a></td>
+    </tr>
+  </table>
 
-    def __init__(self):
-        self.name         = "Komal Prasad"
-        self.role         = "Security Analyst & Penetration Tester"
-        self.location     = "India 🇮🇳"
-        self.education    = "B.Tech CSE"
-
-    @property
-    def currently(self):
-        return {
-            "working_on"   : ["Web & Mobile Penetration Testing",
-                              "API Security Assessments",
-                              "AI/LLM Security Research"],
-            "studying"     : ["CRTO — Certified Red Team Operator",
-                              "Advanced Network Security",
-                              "Malware Analysis"],
-            "open_to"      : ["Penetration testing engagements",
-                              "Security research collaboration",
-                              "Bug bounty partnerships"],
-        }
-
-    def contact(self):
-        return {
-            "linkedin" : "linkedin.com/in/komal-prasad-a20998267",
-            "medium"   : "medium.com/@Komalprasad",
-            "response" : "< 24 hours",
-        }
-
-if __name__ == "__main__":
-    operator = KomalPrasad()
-    print(f"[+] Operator online: {operator.name}")
-    print(f"[+] Status: ACTIVE — open for engagements")
-```
+  <br>
+  <sub><strong>🟢 Status:</strong> ACTIVE — open for engagements</sub>
+</details>
 
 ---
 
@@ -183,9 +176,9 @@ if __name__ == "__main__":
 </p>
 
 <p align="left">
-  🏠 <strong>Rooms Completed:</strong> ? &nbsp;&nbsp;|&nbsp;&nbsp;
-  🏅 <strong>Badges:</strong> ? &nbsp;&nbsp;|&nbsp;&nbsp;
-  📊 <strong>Rank:</strong> #?
+  🏠 <strong>Rooms Completed:</strong> 37 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏅 <strong>Badges:</strong> 7 &nbsp;&nbsp;|&nbsp;&nbsp;
+  📊 <strong>Rank:</strong> top 15%
 </p>
 
 <p align="left"><em>⏱️ Stats auto-updated daily</em></p>
