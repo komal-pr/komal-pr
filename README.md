@@ -1,43 +1,222 @@
-# Hi 👋, I'm Komal Prasad
+<!-- ============================================================
+     GITHUB PROFILE README — Komal Prasad
+     ============================================================ -->
 
-### Security Analyst
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=komal-pr&label=Profile views&color=0e75b6&style=flat" alt="komal-pr" /> </p>
+<!-- ── CAPSULE HEADER ── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00AAFF,100:7B00FF&height=200&section=header&text=KOMAL%20PRASAD&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Security%20Analyst%20%7C%20Ethical%20Hacker&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=komal-pr" alt="komal-pr" /></a> </p>
+<!-- ── TYPING SVG ── -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=700&lines=Penetration+Tester+%F0%9F%94%93;Security+Analyst+%F0%9F%9B%A1%EF%B8%8F;Web+%26+Mobile+Security+%F0%9F%93%B1;API+Security+%F0%9F%94%8C;Network+Penetration+Testing+%F0%9F%94%92;AI+%26+LLM+Security+%F0%9F%A7%A0;Bug+Bounty+Hunter+%F0%9F%90%9B" alt="Typing SVG"/>
 
-<p align="left"> <a href="https://twitter.com/Komal05092002" target="blank"><img src="https://img.shields.io/twitter/follow/Komal05092002?logo=twitter&style=for-the-badge" alt="Komal05092002" /></a> </p>
+<!-- ── PROFILE VIEWS + BADGES ── -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=komal-pr&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/komal-pr?style=for-the-badge&color=00AAFF&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
+&nbsp;
+<a href="https://twitter.com/Komal05092002" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/Komal05092002?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0D1117&label=TWITTER" alt="Twitter"/>
+</a>
 
-- 🔭 I'm currently working on **Web application, Mobile, API and Network Penetration Testing**
+</div>
 
-- 🌱 I'm currently learning **Network security, Penetration testing, AI LLM**
+---
 
-- 👯 I'm looking to collaborate on **Cybersecurity projects**
+<!-- ── TERMINAL WHOAMI ── -->
+```bash
+┌──(komal㉿kali)-[~]
+└─$ whoami --verbose
 
-- 💬 Ask me about **Cybersecurity**
+  Name        : Komal Prasad
+  Role        : Security Analyst | Penetration Tester
+  Education   : B.Tech Computer Science Engineering
+  Location    : India  🇮🇳
+  Status      : 🟢 Open for collaborations & engagements
 
-- 📫 How to reach me **https://www.linkedin.com/in/komal-prasad-a20998267/**
+┌──(komal㉿kali)-[~]
+└─$ cat /etc/specialties
 
-- 👨‍💻 All of my projects are available at **[https://github.com/komal-pr](https://github.com/komal-pr)**
+  ✦  Web Application Penetration Testing
+  ✦  Mobile Application Security (Android/iOS/API)
+  ✦  Network Penetration Testing
+  ✦  API & Microservices Security
+  ✦  AI & LLM Security Research
+  ✦  Vulnerability Assessment & Management
 
-- 📝 I regularly write articles on **[https://github.com/komal-pr](https://github.com/komal-pr)**
+┌──(komal㉿kali)-[~]
+└─$ cat ~/current_focus
 
-- 📄 Know about my experiences **[https://www.linkedin.com/in/komal-prasad-a20998267/](https://www.linkedin.com/in/komal-prasad-a20998267/)**
+  [✔] Network Security Fundamentals
+  [✔] Advanced Penetration Testing
+  [✔] AI/LLM Security — Prompt Injection, Model Attacks
+  [  ] CRTO — In Progress...
+```
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<div align="center">
+
+## 〔 THREAT STATS 〕
+
+<!-- ── GITHUB STATS (WORKING FORK) ── -->
+<img height="180" src="https://github-readme-stats-ivory-eight.vercel.app/api?username=komal-pr&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=AAFFAA&icon_color=00AAFF&border_color=00FF41&border_radius=8&count_private=true&include_all_commits=true&custom_title=Komal+Prasad's+GitHub+Stats" alt="GitHub Stats"/>
+
+<!-- ── STREAK STATS ── -->
+<img width="70%" src="https://streak-stats.demolab.com?user=komal-pr&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00AAFF&fire=FF4400&currStreakNum=FFFFFF&sideNums=00FF41&currStreakLabel=00AAFF&sideLabels=AAAAAA&dates=666666&border_radius=8" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 〔 ARSENAL / TECH STACK 〕
+
+**⚔️ Offensive Security**
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net)
+[![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=sql&logoColor=white)](#)
+
+**💻 Languages & Development**
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org)
+
+**🛡️ Defensive & Analysis Tools**
+
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=00AAFF)](https://www.splunk.com)
+[![YARA](https://img.shields.io/badge/YARA-CC0000?style=for-the-badge&logo=linux&logoColor=white)](#)
+[![CyberChef](https://img.shields.io/badge/CyberChef-33AA33?style=for-the-badge&logo=gchq&logoColor=white)](#)
+
+**🔧 Infrastructure**
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com)
+
+</div>
+
+---
+
+<div align="center">
+
+## 〔 ACTIVITY MAP 〕
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=komal-pr&bg_color=0D1117&color=00FF41&line=00AAFF&point=FFFFFF&area=true&area_color=00FF4120&hide_border=true&custom_title=Contribution+Activity+Graph" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 〔 CURRENT SIGNAL 〕
+
+```python
+class KomalPrasad:
+
+    def __init__(self):
+        self.name         = "Komal Prasad"
+        self.role         = "Security Analyst & Penetration Tester"
+        self.location     = "India 🇮🇳"
+        self.education    = "B.Tech CSE"
+
+    @property
+    def currently(self):
+        return {
+            "working_on"   : ["Web & Mobile Penetration Testing",
+                              "API Security Assessments",
+                              "AI/LLM Security Research"],
+            "studying"     : ["CRTO — Certified Red Team Operator",
+                              "Advanced Network Security",
+                              "Malware Analysis"],
+            "open_to"      : ["Penetration testing engagements",
+                              "Security research collaboration",
+                              "Bug bounty partnerships"],
+        }
+
+    def contact(self):
+        return {
+            "linkedin" : "linkedin.com/in/komal-prasad-a20998267",
+            "medium"   : "medium.com/@Komalprasad",
+            "response" : "< 24 hours",
+        }
+
+if __name__ == "__main__":
+    operator = KomalPrasad()
+    print(f"[+] Operator online: {operator.name}")
+    print(f"[+] Status: ACTIVE — open for engagements")
+```
+
+---
+
+<div align="center">
+
+## 〔 PLATFORMS & PROFILES 〕
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Komal1785)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/komal-prasad-a20998267)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Komalprasad)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Komal05092002)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/komal-pr)
+
+</div>
+
+---
+
+<!-- THM_STATS_START -->
+
+<h3 align="left">🏴‍☠️ TryHackMe</h3>
 <p align="left">
-<a href="https://github.com/komal-pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="komal-pr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/komal-prasad-a20998267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-prasad-a20998267" height="30" width="40" /></a>
-<a href="https://twitter.com/Komal05092002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Komal05092002" height="30" width="40" /></a>
-<a href="https://medium.com/Komalprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Komalprasad" height="30" width="40" /></a>
+  <a href="https://tryhackme.com/p/Komal1785" target="blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Komal1785-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+<p align="left">
+  🏠 <strong>Rooms Completed:</strong> ? &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏅 <strong>Badges:</strong> ? &nbsp;&nbsp;|&nbsp;&nbsp;
+  📊 <strong>Rank:</strong> #?
+</p>
+
+<p align="left"><em>⏱️ Stats auto-updated daily</em></p>
+
+<!-- THM_STATS_END -->
+
+---
+
+<div align="center">
+
+## 〔 CONNECT WITH ME 〕
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=komal-pr&theme=dark&background=0D1117&border=00FF41&stroke=00FF41" alt="Streak"/>
+<a href="https://github.com/komal-pr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="komal-pr" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/komal-prasad-a20998267" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-prasad-a20998267" height="40" width="50" /></a>
+<a href="https://twitter.com/Komal05092002" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Komal05092002" height="40" width="50" /></a>
+<a href="https://medium.com/Komalprasad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Komalprasad" height="40" width="50" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komal-pr&" alt="komal-pr" /></p>
+</div>
 
+---
+
+<div align="center">
+
+<!-- ── CAPSULE FOOTER ── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B00FF,50:00AAFF,100:00FF41&height=120&section=footer&text=STAY+ETHICAL+%E2%80%94+HACK+THE+PLANET&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
+
+<sub>
+All security research and tools published here are for <strong>educational purposes</strong> and <strong>authorized testing only</strong>.<br/>
+Unauthorized access to systems is illegal. Always get written permission before testing.
+</sub>
+
+</div>
