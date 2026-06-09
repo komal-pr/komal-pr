@@ -14,8 +14,7 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=komal-pr&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/komal-pr?style=for-the-badge&color=00AAFF&labelColor=0D1117&label=FOLLOWERS" alt="Followers"/>
-&nbsp;
+
 <a href="https://twitter.com/Komal05092002" target="_blank">
   <img src="https://img.shields.io/twitter/follow/Komal05092002?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0D1117&label=TWITTER" alt="Twitter"/>
 </a>
@@ -54,21 +53,6 @@
 [![](https://img.shields.io/badge/APISec-00AAFF?style=for-the-badge&labelColor=0D1117&logo=api&logoColor=white)](#)
 [![](https://img.shields.io/badge/CCEP-00FF41?style=for-the-badge&labelColor=0D1117&logo=checkmarx&logoColor=white)](#)
 
----
-
-<div align="center">
-
-## 〔 THREAT STATS 〕
-
-<!-- ── GITHUB STATS (WORKING FORK) ── -->
-<img height="180" src="https://github-readme-stats-ivory-eight.vercel.app/api?username=komal-pr&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=00FF41&text_color=AAFFAA&icon_color=00AAFF&border_color=00FF41&border_radius=8&count_private=true&include_all_commits=true&custom_title=Komal+Prasad's+GitHub+Stats" alt="GitHub Stats"/>
-
-<!-- ── STREAK STATS ── -->
-<img width="70%" src="https://streak-stats.demolab.com?user=komal-pr&theme=dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00AAFF&fire=FF4400&currStreakNum=FFFFFF&sideNums=00FF41&currStreakLabel=00AAFF&sideLabels=AAAAAA&dates=666666&border_radius=8" alt="GitHub Streak"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -176,12 +160,11 @@
 </p>
 
 <p align="left">
-  🏠 <strong>Rooms Completed:</strong> 37 &nbsp;&nbsp;|&nbsp;&nbsp;
+  🏠 <strong>Rooms Completed:</strong> 43 &nbsp;&nbsp;|&nbsp;&nbsp;
   🏅 <strong>Badges:</strong> 7 &nbsp;&nbsp;|&nbsp;&nbsp;
-  📊 <strong>Rank:</strong> top 15%
+  📊 <strong>Rank:</strong> top 9%
 </p>
 
-<p align="left"><em>⏱️ Stats auto-updated daily</em></p>
 
 <!-- THM_STATS_END -->
 
